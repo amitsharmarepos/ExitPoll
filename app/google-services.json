@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "65793733099",
+    "firebase_url": "https://eixtpoll-1482221317962.firebaseio.com",
+    "project_id": "eixtpoll-1482221317962",
+    "storage_bucket": "eixtpoll-1482221317962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65793733099:android:b1eef92e2dfd07c2",
+        "android_client_info": {
+          "package_name": "com.samyotech.exitpoll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65793733099-4grc1s87h1gpqql1uedgsq5gmh02ls15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEpT7TXbWhkgNd8fHPbcotZxo9eRVnPTc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

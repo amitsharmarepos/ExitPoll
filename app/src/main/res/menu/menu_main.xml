@@ -1,0 +1,51 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="info.androidhive.cardview.MainActivity">
+
+
+    <item
+        android:id="@+id/action_viewfev"
+        android:icon="@android:drawable/ic_menu_view"
+        android:orderInCategory="100"
+        android:title="@string/action_viewfev"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never">
+<!--
+        <menu>
+            <item
+                android:id="@+id/action_updatepro"
+                android:icon="@drawable/update"
+                android:orderInCategory="100"
+                android:title="@string/action_updateprofile"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/action_notification"
+                android:icon="@drawable/alert"
+                android:orderInCategory="100"
+                android:title="@string/action_notification"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/action_resetpass"
+                android:icon="@drawable/resetpass"
+                android:orderInCategory="100"
+                android:title="@string/action_resetpass"
+                app:showAsAction="never" />
+
+
+            <item
+                android:id="@+id/action_logout"
+                android:icon="@drawable/logout"
+                android:orderInCategory="100"
+                android:title="@string/action_logout"
+                app:showAsAction="never" />
+        </menu> -->
+    </item>
+</menu>

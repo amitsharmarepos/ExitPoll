@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="skyblue">#01A4DC</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+    <color name="colorPrimary">#5f50e1</color>
+    <color name="colorPrimaryTransparent">#335f50e1</color>
+    <color name="colorPrimaryDark">#4432b9</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#1C1C1C</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#5f50e1</color>
+    <color name="overlay">#AA1C1C1C</color>
+    <color name="divider">#333333</color>
+    <color name="card_expand_title_color">#B3B2B2</color>
+    <color name="text_color_signup">#b3b3b3</color>
+    <color name="default_back_stroke_color">#f0f0f0</color>
+
+    <color name="mstb_gray">#d3d3d3</color>
+</resources>

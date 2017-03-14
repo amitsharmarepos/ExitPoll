@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Exit Poll</string>
+
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the 6 digit password </string>
+    <string name="action_updateprofile">Update Profile</string>
+    <string name="action_viewfev">View favourite</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_resetpass">Reset Password</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_notification">Notification</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="backdrop_title">WHO WILL LEAD THE GOVERNMENT</string>
+    <string name="backdrop_subtitle">UP-ELECTION 2017</string>
+    <string name="name_required">Please fill the field.</string>
+    <string name="mobile_required">Please fill the correct no.</string>
+    <string name="pincode_required">Please fill the correct pincode.</string>
+    <string name="button_allow">Allow</string>
+    <string name="button_deny">Deny</string>
+    <string name="permission_pick_rationale">READ_EXTERNAL_STORAGE permission is needed to pick image.</string>
+    <string name="permission_crop_rationale">WRITE_EXTERNAL_STORAGE permission is needed to save cropped image.</string>
+</resources>
